@@ -86,6 +86,10 @@ options:
   
 ```
   
+> Now Enjoy! And don't forget to follow me and Subscribe my Youtube Channel
+
+> <b>**`Note:`</b> Don't Misuse or Sell my Codes. If you want then you can learn from it but If you want to modify my Codes, Then Give me The Credits. Don't Copy it same to same with your name. <br>---Thank You---
+  
 ## [*] Contact :
 [![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
 [![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
