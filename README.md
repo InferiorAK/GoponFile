@@ -37,7 +37,7 @@
 > At first You have to install python3 on your system
   
 > Now write these commands :
-- ` git install https://github.com/InferiorAK/GoponFIle ` <br>
+- ` git clone https://github.com/InferiorAK/GoponFIle ` <br>
 - ` cd GoponFile `
 - ` pip3 install -r requirements.txt `
   > For Linux
