@@ -42,3 +42,15 @@
 - ` ./mi_gopon.py -h `
   > For Windows
 - ` python3 mi_gopon.py -h `
+  
+  > **Output**:
+  
+<img src="assets/ss1.JPG" width=80%>
+<br>
+  
+  > **To Lock File**:
+  
+- ` python3 mi_gopon.py -f file_path -c `
+<img src="assets/ss2.JPG" width=80%>
+<br>
+<img src="assets/ss3.JPG" width=80%>
