@@ -1,4 +1,4 @@
-# GoponFIle
+# GoponFile
 <b>GoponFile is a Simple File Locker based on Python. It's Safe and User Friendly to use. So Let's try it and Enjoy!</b>
 
 <p align="center">
@@ -43,14 +43,50 @@
   > For Windows
 - ` python3 mi_gopon.py -h `
   
-  > **Output**:
+> **Output**:
   
 <img src="assets/ss1.JPG" width=80%>
 <br>
   
-  > **To Lock File**:
+> **To Lock File**:
   
 - ` python3 mi_gopon.py -f file_path -c `
 <img src="assets/ss2.JPG" width=80%>
-<br>
 <img src="assets/ss3.JPG" width=80%>
+  
+  > **To Lock Multiple Files**:
+
+- ` python3 mi_gopon.py -f file1 file2 file3 file4 .... -c `
+  
+<br><br>
+  
+> **To Unlock File**:
+  
+- ` python3 mi_gopon.py -f file_path -d `
+<img src="assets/ss4.JPG" width=80%>
+  
+  > **To Unlock Multiple Files**:
+
+- ` python3 mi_gopon.py -f file1 file2 file3 file4 .... -d `
+
+
+```
+usage: mi_gopon.py [options]
+
+Private File Encryption tool by InferiorAK
+
+options:
+  -h, --help            show this help message and exit
+  -f FILE [FILE ...], --file FILE [FILE ...]
+                        Target Files
+  -c, --enc             Specifiy Encryption
+  -d, --dec             Specifiy Decryption
+  
+```
+  
+## [*] Contact :
+[![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
+[![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
+[![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
+  
