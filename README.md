@@ -39,6 +39,7 @@
 > Now write these commands :
 - ` git install https://github.com/InferiorAK/GoponFIle ` <br>
 - ` cd GoponFile `
+- ` pip3 install -r requirements.txt `
   > For Linux
   
 - ` ./mi_gopon.py -h `
