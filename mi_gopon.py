@@ -1,13 +1,13 @@
 #! /usr/bin/python3
 
-# Author        :   InferiorAK
-# GoponFile     :      File Encryption Tool
-# Version       :      1.0
-# Lisence       :      GPL 3.0
-# Github        :      github.com/InferiorAK
-# facebook      :      fb.com/InferiorAK
-# Youtbe		:      youtube.com/@InferiorAk
-# twitter		:      twitter.com/@InferiorAk
+# Author        :    InferiorAK
+# GoponFile     :    File Encryption Tool
+# Version       :    1.0
+# Lisence       :    GPL 3.0
+# Github        :    github.com/InferiorAK
+# facebook      :    fb.com/InferiorAK
+# Youtbe	:    youtube.com/@InferiorAk
+# twitter	:    twitter.com/@InferiorAk
 ## 1st Release: 11th May 2023
 
 # -------- Copyright (C) 2023 InferiorAK ------
