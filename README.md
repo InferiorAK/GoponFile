@@ -48,14 +48,14 @@
   
 > **Output**:
   
-<img src="assets/ss1.JPG" width=80%>
+<img src="assets/ss1.JPG">
 <br>
   
 > **To Lock File**:
   
 - ` python3 mi_gopon.py -f file_path -c `
-<img src="assets/ss2.JPG" width=80%>
-<img src="assets/ss3.JPG" width=80%>
+<img src="assets/ss2.JPG">
+<img src="assets/ss3.JPG">
   
   > **To Lock Multiple Files**:
 
@@ -66,7 +66,7 @@
 > **To Unlock File**:
   
 - ` python3 mi_gopon.py -f file_path -d `
-<img src="assets/ss4.JPG" width=80%>
+<img src="assets/ss4.JPG">
   
   > **To Unlock Multiple Files**:
 
