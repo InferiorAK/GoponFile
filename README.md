@@ -1,18 +1,20 @@
 # GoponFile
 <b>GoponFile is a Simple File Locker based on Python. It's Safe and User Friendly to use. So Let's try it and Enjoy!</b>
 
+<img align="center" src="assets/banner.jpg">
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/InferiorAK/GoponFile?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/InferiorAK/GoponFile?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/InferiorAK/GoponFile?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/InferiorAK/GoponFile?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/inferiorAK/GoponFile?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/inferiorAK/GoponFile?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/inferiorAK/GoponFile?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/inferiorAK/GoponFile?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python3.11.1-yellowgreen?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2F   reponame   &title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FGoponFIle&title=Visitors&edge_flat=false"/></a>
 </p>
 <p align=center>Tutorial : <a href="#" target=_blank><b>**Click**</b></a><p>
 <br>
