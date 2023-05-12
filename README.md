@@ -42,6 +42,7 @@
 - ` pip3 install -r requirements.txt `
   > For Linux
   
+- ` chmod +x mi_gopon.py `
 - ` ./mi_gopon.py -h `
   > For Windows
 - ` python3 mi_gopon.py -h `
